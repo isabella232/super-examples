@@ -1,4 +1,6 @@
-# Superfluid Finance Examples
+# Superfluid Finance Examples (outdated)
+
+**!! Warning: This repository has not been well maintained. A lot of examples may not work without changes with the current version of the Superfluid framework, and/or not be idiomatic.**
 
 This repositiory is dedicated to the example projects formerly located in the
 protocol monorepo. The example projects in this repository are designed with
